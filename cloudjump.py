@@ -6,6 +6,7 @@ c = list(map(int, input().rstrip().split()))
 e=100
 flag=0
 i=0
+//sagar
 while(flag==0):
     
             
